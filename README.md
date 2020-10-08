@@ -6,8 +6,8 @@ Two libraries are required:
     https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16,
     
     After downloading and starting the installation, several fields will be offered
-    You need to select \>\>\> Desktop development with C ++, and click 'Install'.
-    After all the steps have been taken, it remains to install the face recognition library as follows  \>\>\> pip install face-recognition
+    You need to select \>\>\> Desktop development with C ++, and click 'Install'. 
+    After all the steps have been taken, it remains to install the face recognition library as follows \>\>\> pip install face-recognition
 
   // If you are a MAC user, you can install cmake as follows >>> pip install --default-timeout=100 cmake //
 
