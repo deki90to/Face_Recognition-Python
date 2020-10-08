@@ -11,6 +11,8 @@ Two libraries are required:
     remains to install the face recognition library as follows \>\>\>
     pip install face-recognition
 
-3.  That's it.
+3.  If you are a MAC user, you can install cmake as follows >>> pip install --default-timeout=100 cmake
+
+4. That's it!
 
 
