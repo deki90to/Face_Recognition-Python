@@ -2,12 +2,12 @@ import face_recognition
 import cv2
 
 
-video = cv2.VideoCapture('video/titanic.mp4')
+video = cv2.VideoCapture('video/titanic/titanic.mp4')
 
-jack_image = face_recognition.load_image_file('slike/jack.png')
+jack_image = face_recognition.load_image_file('slike/titanic/jack.png')
 jack_image_encoding = face_recognition.face_encodings(jack_image)[0]
 
-kate_image = face_recognition.load_image_file('slike/kate.png')
+kate_image = face_recognition.load_image_file('slike/titanic/kate.png')
 kate_image_encoding = face_recognition.face_encodings(kate_image)[0]
 
 
