@@ -22,7 +22,6 @@ known_face_names = [
 ]
 
 while True:
-
 	_, frame = video.read()
 	rgb_frame = frame[:, :, ::-1]
 
